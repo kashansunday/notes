@@ -12,3 +12,6 @@ Let's GO
 
 To be successful in the world of programming, it is essential to have a solid foundation in core concepts, such as data structures, algorithms, computer architecture, operating systems, etc. These concepts will serve as a foundation for your growth and development as an engineer. Additionally, learning how to learn and problem-solving skills are crucial for success in this field. 
  - 来自NLP
+
+# 2023-11-18
+- "Today's programming wisdom is to write code that is not only functional but also maintainable and scalable. This means using best practices such as modular design, commenting, and adhering to coding standards. It's also important to consider the long-term implications of your code and how it may need to be adapted or extended in the future. By prioritizing maintainability and scalability, you can save time and effort in the long run and ensure that your code remains effective and efficient."
