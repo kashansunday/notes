@@ -24,3 +24,10 @@ Second, use time management techniques like the Pomodoro Technique or the Eisenh
 
 # 2023-11-20
 - "Keep it simple, stupid!"
+
+# 2023-11-21
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By giving priority to the critical tasks first, you can ensure that your project stays on track and meets its deadlines. Use task management tools, such as Trello or Asana, to help organize and prioritize your tasks. 
+ 2. Plan ahead: Planning is crucial for any project. Before starting to code, create a detailed plan that outlines the steps you need to take to complete the project successfully. Include deadlines for each step, as well as any dependencies that may affect the timeline. Planning ahead will prevent you from getting stuck in the middle of a task without a clear path forward.  
+3. Stay organized: As you work on your code and project files, keep them organized and structured. Using version control systems, like Git, will allow you track changes and collaborate with others more efficiently. Additionally, organizing your files and code using well-named variables, functions, classes, modules, etc. will make it easier to find and maintain your work.
