@@ -56,3 +56,15 @@ Remember that programming is not just about writing code, but also about problem
 
 # 2023-11-28
 - "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and descriptive variable names, writing comments to explain complex logic, and organizing your code into modular and reusable functions. Remember, code is read more often than it is written, so make it readable for yourself and others who may need to work on it in the future."
+
+# 2023-11-29
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded as needed. To achieve this, follow these best practices:
+
+1. Use clear variable and function names that describe their purpose and usage.
+2. Organize code into logical blocks and sections, using the appropriate data structures and control flow statements. 
+3. Comment your code, explaining its purpose, functionality, input, output, assumptions, etc., to make it easier for others to understand and contribute to your work.  
+4. Follow coding conventions and standards for the language and framework you're using, as well as the project you work on. These guidelines ensure consistency and reduce the likelihood of errors.   
+5. Write modular code by creating reusable functions and classes that perform specific tasks and can easily be reused throughout your project.    
+6. Minimize the use of global variables and avoid using them when possible, instead passing data and parameters to functions as necessary. Global variables can lead to unintended side effects and make code harder to maintain.     
+7. Test your codes by writing unit tests and integration tests to ensure it works as expected and covers all possible edge cases. Testing also helps identify potential bugs and errors early on in the development process.       
+8. Continuously learn and stay up-do-date with new programming languages, frameworks, tools, libraries, best-practices, security vulnerabilities, performance optimizations, debugging techniques, version control systems, collaboration tools and more. By staying informed and up to date, you can make better decisions and write better code.
