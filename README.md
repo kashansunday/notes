@@ -68,3 +68,6 @@ Remember that programming is not just about writing code, but also about problem
 6. Minimize the use of global variables and avoid using them when possible, instead passing data and parameters to functions as necessary. Global variables can lead to unintended side effects and make code harder to maintain.     
 7. Test your codes by writing unit tests and integration tests to ensure it works as expected and covers all possible edge cases. Testing also helps identify potential bugs and errors early on in the development process.       
 8. Continuously learn and stay up-do-date with new programming languages, frameworks, tools, libraries, best-practices, security vulnerabilities, performance optimizations, debugging techniques, version control systems, collaboration tools and more. By staying informed and up to date, you can make better decisions and write better code.
+
+# 2023-11-30
+- "Keep it simple, stupid!"
