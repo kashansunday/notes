@@ -112,3 +112,8 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-12-11
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, making sure to leave enough time to address any potential issues or delays. Finally, use task management tools and versions control systems to stay organised and track your progress. By following these steps, you will be able to efficiently complete your tasks and make better use of your programming time.
+
+# 2023-12-12
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can often lead to more problems than it solves. It's important to focus on writing clear, maintainable code first, and only optimize when profiling has identified specific performance bottlenecks.
