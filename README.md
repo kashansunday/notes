@@ -131,3 +131,10 @@ Another important aspect of programming is collaboration. Learning how to work w
 
 # 2023-12-15
 - "Keep it simple, stupid!"
+
+# 2023-12-16
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means understanding the principles of software development, such as agile methodologies and continuous integration.
+
+To be an effective programmer, it'ss important to understand the needs of your team and your clients. Effective communication and collaboration are key, as you will need to work closely with other developers, designers, product managers, etc. to bring a project to life. Be open to feedback and criticism, which will help you grow as a professional. 
+ - 了解最新技术、工具和编程语言，不断更新自己的技能。
+- 要理解软件开发的原理，如敏捷方法和持续集成。 。。
