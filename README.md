@@ -138,3 +138,6 @@ Another important aspect of programming is collaboration. Learning how to work w
 To be an effective programmer, it'ss important to understand the needs of your team and your clients. Effective communication and collaboration are key, as you will need to work closely with other developers, designers, product managers, etc. to bring a project to life. Be open to feedback and criticism, which will help you grow as a professional. 
  - 了解最新技术、工具和编程语言，不断更新自己的技能。
 - 要理解软件开发的原理，如敏捷方法和持续集成。 。。
+
+# 2023-12-17
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. Focus on writing clean, readable, and maintainable code first. Optimize only when necessary and after profiling to identify bottlenecks. Remember that code is read far more often than it is written, so prioritize clarity over cleverness. Happy coding!
