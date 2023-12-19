@@ -144,3 +144,8 @@ To be an effective programmer, it'ss important to understand the needs of your t
 
 # 2023-12-18
 - "Keep it simple, stupid!"
+
+# 2023-12-19
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain software. It's often better to write clear, simple code first and optimize only when profiling identifies bottlenecks.
