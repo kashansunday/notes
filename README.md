@@ -177,3 +177,6 @@ Second, always plan your day or week ahead of time. Write down your goals and ta
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By giving priority to the critical tasks first, you can ensure that your project stays on track and meets its deadlines. Use a task management tool, such as Trello or Asana, to help organize and prioritize your tasks. 
  2. Plan ahead: Planning is crucial for any project. When starting a new project or working with a team, make sure to plan out the entire process, including the deadlines, milestones, resources, etc. Planning ahead will prevent last-minute surprises and ensure a smooth execution of the project plan.  
 3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital for efficiency and maintainability. Follow best practices, like using version control systems (like Git), organizing code into logical folders, following coding conventions, using comment blocks, documenting your code,  and more. These practices will make it easier for you and other developers to work on the code and understand its functionality.
+
+# 2023-12-27
+- "Keep it simple, stupid!"
