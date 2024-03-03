@@ -497,3 +497,8 @@ Remember to stay flexible and adaptable. As you work on a project, it' s likely 
 
 Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your working hours. Planning ahead will prevent you from getting overwhelmed by tasks and help ensure you have enough time to complete everything. 
  - 来自helpful assistant
+
+# 2024-03-03
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, readable, and maintainable code first. Optimize only when necessary, after profiling and identifying real bottlenecks." 
+
+In more detail, this quote emphasizes that striving to optimize code too early in the development process can lead to unnecessary complexity, harder maintenance, and potentially obscure bugs. It's better to write good quality code initially and then refine it based on actual performance measurements rather than speculative assumptions about where performance might be improved.
