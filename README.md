@@ -507,3 +507,13 @@ In more detail, this quote emphasizes that striving to optimize code too early i
 - "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clear, readable, and maintainable code first. Optimize only when necessary, after profiling and identifying bottlenecks. Remember that simplicity and clarity enhance robustness and evolvability." 
 
 In essence, this quote by computer scientist Donald Knuth emphasizes that trying to optimize code too early in the development process can lead to unnecessary complexity and potential bugs. It's more important to ensure code correctness and understand its purpose before attempting to improve its performance. This principle encourages a balance between efficiency and code quality, advocating for optimizations based on data-driven decisions rather than speculative assumptions.
+
+# 2024-03-05
+- "Today's programming wisdom is to embrace the SOLID principles for writing maintainable and scalable code. Understand that 'Simple is better than complex,' as stated in Zen of Python. Remember that code readability and clarity are vital, as others will read your code more often than you write it. Always strive for modularity and separation of concerns. Lastly, practice defensive programming by anticipating potential errors and handling exceptions gracefully." 
+
+SOLID principles:
+1. Single Responsibility Principle: A class should have only one reason to change.
+2. Open/Closed Principle: Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
+3. Liskov Substitution Principle: Derived classes must be substitutable for their base classes.
+4. Interface Segregation Principle: Clients should not be forced to depend on methods they do not use.
+5. Dependency Inversion Principle: High-level modules should not depend on low-level modules; both should depend on abstractions.
