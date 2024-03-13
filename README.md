@@ -548,3 +548,10 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 
 # 2024-03-12
 - "Keep it simple, stupid!"
+
+# 2024-03-13
+- Today's programming wisdom is to be a lifelong learner, always open to new ideas and technologies. Embrace the iterative and agile approach to development, constantly refining and improving your work. Remember that code is not a static entity, but a living, breathing thing that will evolve over time.
+
+Keep your code clean, organized, and modular, making it easy to understand and maintain. Use version control systems like Git to track your changes and collaborate with others. Always prioritize usability and accessibility, ensuring that your solutions are approachable and effective for all users. 
+ - 了解不同的编程范式，如面向对象编程、函数式编程和过程式程序设计。
+- Learn to use version controllers like git to keep your codes organized and easy-to-manage.- Always keep in mind the principle of "Don't repeat yourself" (DRY). This principle helps you write cleaner and more maintainable code.
